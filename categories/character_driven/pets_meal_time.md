@@ -4,7 +4,7 @@
 - **标题**: 宠物用餐时光
 - **分类**: character_driven
 - **难度**: 中级
-- **时长**: 45秒
+- **时长**: 10秒
 - **标签**: 宠物, 家庭, 温馨, 日常生活, 动物行为
 
 ## 提示词内容
@@ -19,7 +19,7 @@ The setting is a typical home kitchen with natural lighting from a window. Simpl
 
 Camera captures the scene with gentle movements - starting wide to show the full scene, then focusing on individual pet behaviors, concluding with a peaceful overview of the shared mealtime.
 
-Visual style: Natural and warm, everyday home lighting, realistic pet behavior. 45 seconds duration.
+Visual style: Natural and warm, everyday home lighting, realistic pet behavior. 10 seconds duration.
 ```
 
 ## 参数设置

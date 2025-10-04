@@ -4,7 +4,7 @@
 - **标题**: [提示词标题]
 - **分类**: [cinematic/documentary/animation/experimental/artistic/commercial/educational/entertainment/sports/nature/urban/historical/futuristic/abstract/character_driven]
 - **难度**: [初级/中级/高级]
-- **时长**: [建议视频时长]
+- **时长**: [建议视频时长，通常为10秒]
 - **标签**: [相关标签，用逗号分隔]
 
 ## 提示词内容
